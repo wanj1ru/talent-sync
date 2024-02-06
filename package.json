@@ -432,7 +432,5 @@
   "author": "",
   "license": "ISC"
 }
-"scripts": {
-  "build": "npm run build"
-}
+
 
