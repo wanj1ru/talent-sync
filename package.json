@@ -424,6 +424,7 @@
     "yocto-queue": "^0.1.0"
   },
   "devDependencies": {
+    "@types/react": "^18.2.55",
     "jest": "^29.7.0"
   },
   "scripts": {
@@ -434,5 +435,3 @@
   "author": "",
   "license": "ISC"
 }
-
-
